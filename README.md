@@ -17,3 +17,6 @@ yang berisi tulisan sebagai berikut
 - gis.adisatya.com		: Geographic Information System
 - mail.adisatya.com		: Webmail System
 - ekinerja.adisatya.com	: E-kinerja
+
+
+dalam menghosting untuk dapat dimunculkan via localhost, maka seluruh file perlu diletakkan dalam direktori /var/www/html
