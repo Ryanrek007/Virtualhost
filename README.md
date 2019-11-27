@@ -2,7 +2,8 @@
 merupakan proyek terkait bagaimana cara membuat virtual host yang terintegrasi dengan apache2 dan mysql pada linux
 
 
-=== STUDI KASUS ===
+=== STUDI KASUS ===.
+
 PT Adisatya adalah perusahaan yang bergerak di bidang teknologi informasi.
 Perusahaan ini akan membuat 3 buah website dengan 3 subdomain  yang berbeda dalam  satu server yang sama.
 
